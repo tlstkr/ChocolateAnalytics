@@ -5,7 +5,7 @@
 
 The original ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. 
 
-### Rating System
+## Rating System
 5 = Elite (Transcending beyond the ordinary limits)
 4 = Premium (Superior flavor development, character and style)
 3 = Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
